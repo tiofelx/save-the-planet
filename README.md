@@ -6,8 +6,11 @@ SAVE-THE-PLANET é um jogo simples, mas viciante, onde você deve usar o mouse o
 
 ## Como Jogar
 Início: Abra o jogo em um navegador da web compatível com HTML5.
+
 Objetivo: Toque ou clique nos meteoros que estão vindo em direção à Terra para destruí-los antes que atinjam a superfície.
+
 Pontuação: Cada meteoro destruído adiciona pontos à sua pontuação total.
+
 Tempo: O tempo é ilimitado. Divirta-se!
 
 ## Tecnologias Utilizadas
